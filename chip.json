@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "name": "Analog Bargraph",
+  "author": "dlloydev",
+  "license": "MIT",
+  "docs": "https://github.com/Dlloydev/Wokwi-Chip-Analog=Bargraph/blob/main/docs/README.md",
+  "pins": [
+    "A0",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "D0",
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5",
+    "D6",
+    "D7",
+    "D8",
+    "D9"  ],
+  "controls": [
+    {
+      "id": "mode",
+      "label": "⓿ Bargraph ❶ Binary",
+      "type": "range",
+      "min": 0,
+      "max": 1,
+      "step": 1
+    }
+  ]
+}
+

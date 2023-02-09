@@ -133,5 +133,5 @@
     [ "analog-bargraph1:D3", "r7:1", "green", [ "h0" ] ],
     [ "analog-bargraph1:D1", "r9:1", "green", [ "h0" ] ]
   ],
-  "dependencies": { "chip-analog-bargraph": "github:Dlloydev/Wokwi-Chip-Analog-Bargraph@1.0.1" }
+  "dependencies": { "chip-analog-bargraph": "github:Dlloydev/Wokwi-Chip-Analog-Bargraph@1.0.2" }
 }

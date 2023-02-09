@@ -23,7 +23,7 @@ To use this chip in your project, include it as a dependency in your `diagram.js
 
 ```json
   "dependencies": {
-    "chip-analog-bargraph": "github:Dlloydev/Wokwi-Chip-Analog-Bargraph@1.0.0"
+    "chip-analog-bargraph": "github:Dlloydev/Wokwi-Chip-Analog-Bargraph@1.0.1"
   }
 ```
 

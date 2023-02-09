@@ -3,7 +3,7 @@
   "name": "Analog Bargraph",
   "author": "dlloydev",
   "license": "MIT",
-  "docs": "https://github.com/Dlloydev/Wokwi-Chip-Analog=Bargraph/blob/main/docs/README.md",
+  "docs": "https://github.com/Dlloydev/Wokwi-Chip-Analog-Bargraph/blob/main/docs/README.md",
   "pins": [
     "A0",
     "",

@@ -2,7 +2,11 @@
 
 ## Description
 
-Converts an Analog Signal to 10-bit Bargraph or Binary
+Converts an Analog Signal to 10-bit Bargraph (default) or Binary.
+
+
+
+![image](https://user-images.githubusercontent.com/63488701/217864528-8e30935e-854d-414c-a454-2f2c1e65ca89.png)
 
 ![image](https://user-images.githubusercontent.com/63488701/217718560-3af1f830-bfca-4017-93cd-d8195d0ea6fa.png)
 
